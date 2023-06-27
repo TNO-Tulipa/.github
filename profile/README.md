@@ -1,2 +1,4 @@
 # Overview
 Tulipa is a group of tools that applies analytical methods to improve decision-making in the electricity market and its coupling with other energy sectors (e.g., hydrogen, heat, natural gas, etc.). Employing techniques from mathematical sciences, such as modelling, statistics, and optimization, Tulipa reaches optimal or near-optimal solutions to long-term generation and expansion problems considering operational details (e.g., unit commitment, operational reserves, seasonal storage, flexibility requirements), decarbonization pathways (e.g., emission constraints, renewable shares, retrofitting), and resilience to extreme weather conditions (e.g., Dunkelflaute).
+
+Tulipa is presently being developed and financed by [TNO](https://www.tno.nl/en/). So, please stay tuned for the forthcoming releases of Tulipa by following this organization on GitHub.
