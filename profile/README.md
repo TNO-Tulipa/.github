@@ -1,7 +1,14 @@
 # Overview
-Tulipa is a group of tools that applies analytical methods to improve decision-making in the electricity market and its coupling with other energy sectors (e.g., hydrogen, heat, natural gas, etc.). Employing techniques from mathematical sciences, such as modelling, statistics, and optimization, Tulipa reaches optimal or near-optimal solutions to long-term generation and expansion problems considering operational details (e.g., unit commitment, operational reserves, seasonal storage, flexibility requirements), decarbonization pathways (e.g., emission constraints, renewable shares, retrofitting), and resilience to extreme weather conditions (e.g., Dunkelflaute).
+Tulipa is a group of **free analytical tools** to support data-driven policy analysis and decision-making in the **energy transition** - with special focus on the electricity market and its coupling with other energy sectors (e.g., hydrogen, heat, natural gas, etc.). 
 
-Tulipa is presently being developed by [TNO](https://www.tno.nl/en/) and the [Netherlands eScience Center](https://www.esciencecenter.nl/), with contributions from [TU Delft](https://www.tudelft.nl/) and [Utrecht University](https://www.uu.nl/).
-Tulipa is primarily being financed by [TNO](https://www.tno.nl/en/), incorporating research financed by [NWO](https://www.nwo.nl/en).
+Employing techniques from mathematical sciences, such as modelling, statistics, and optimization, Tulipa reaches optimal or near-optimal solutions to **long-term generation and expansion problems** considering:
+- operational details (e.g., unit commitment, operational reserves, seasonal storage, flexibility requirements)
+- decarbonization pathways (e.g., emission constraints, renewable shares, retrofitting)
+- resilience to extreme weather conditions (e.g., Dunkelflaute)
 
-Please stay tuned for the forthcoming releases of Tulipa by following this organization on GitHub.
+Tulipa is being developed by [TNO](https://www.tno.nl/en/) and the [Netherlands eScience Center](https://www.esciencecenter.nl/), with contributions from [TU Delft](https://www.tudelft.nl/) and [Utrecht University](https://www.uu.nl/),  
+and is financed by [TNO](https://www.tno.nl/en/) and [NWO](https://www.nwo.nl/en).
+
+Tulipa supports the United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals), specifically [Goal 7: Affordable and Clean Energy](https://sdgs.un.org/goals/goal7).
+
+Follow this organization on Github if you want to stay up-to-date on the latest developments.
